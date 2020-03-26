@@ -1,14 +1,15 @@
 lieu: table-ronde
 inventaire:
   - cheval
+  - lion
 personnages:
   - moi:
-    - santé: 10
+    - santé: 10-2
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 20
+    - santé: 20-8
   - serpent:
-    - santé: 20
+    - santé: 20-20
   - géant:
     - santé: 25
